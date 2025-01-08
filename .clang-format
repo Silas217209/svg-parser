@@ -1,0 +1,9 @@
+---
+BasedOnStyle: Google
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+IndentWidth: 4
+RemoveParentheses: MultipleParentheses
+SortIncludes: CaseInsensitive
+SpaceAfterTemplateKeyword: false
+
