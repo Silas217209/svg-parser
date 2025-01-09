@@ -155,5 +155,7 @@ char* get_token_type(enum TokenType token) {
             return "TOK_PI_END";
         case TOK_COMMENT:
             return "TOK_COMMENT";
+        default:
+            return "UNHALDED";
     }
 }
