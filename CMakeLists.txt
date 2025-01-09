@@ -18,6 +18,7 @@ set(INCLUDE_DIR "${PROJECT_SOURCE_DIR}/include")
 
 set(SOURCES
     src/main.c
+    src/tokenizer.c
 )
 
 add_executable(${PROJECT_NAME} ${SOURCES})
